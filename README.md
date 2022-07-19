@@ -1,5 +1,5 @@
 # Simple-CT
-This repository aims to provide an easy, low-dependency access to CT projection and reconstruction.
+This repository aims to provide an easy, python-only access CT projection and reconstruction.
 
 ## Coordinate Systems
 
